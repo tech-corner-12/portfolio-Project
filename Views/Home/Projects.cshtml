@@ -1,0 +1,13 @@
+@model IEnumerable<Project>
+
+<h2>My Projects</h2>
+<ul>
+    @foreach (var project in Model)
+    {
+        <li>
+            <strong>@project.Name</strong> - @project.Description
+            <a href="@project.Url">View Project</a>
+        </li>
+    }
+</ul>
+<a href="/">Back to Home</a>
