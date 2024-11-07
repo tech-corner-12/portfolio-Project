@@ -1,0 +1,7 @@
+D:\PortfolioWebsite\PortfolioWebsite\bin\Publish\PortfolioWebsite.exe
+D:\PortfolioWebsite\PortfolioWebsite\bin\Publish\appsettings.Development.json
+D:\PortfolioWebsite\PortfolioWebsite\bin\Publish\appsettings.json
+D:\PortfolioWebsite\PortfolioWebsite\bin\Publish\PortfolioWebsite.dll
+D:\PortfolioWebsite\PortfolioWebsite\bin\Publish\PortfolioWebsite.deps.json
+D:\PortfolioWebsite\PortfolioWebsite\bin\Publish\PortfolioWebsite.runtimeconfig.json
+D:\PortfolioWebsite\PortfolioWebsite\bin\Publish\PortfolioWebsite.pdb
